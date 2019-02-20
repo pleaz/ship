@@ -1,0 +1,15 @@
+{
+    "name": "pleaz/ship",
+    "authors": [
+        {
+            "name": "Anton",
+            "email": "oprstfaq@gmail.com"
+        }
+    ],
+    "require": {
+        "michaelb/ship-station": "^1.1",
+        "thingengineer/mysqli-database-class": "dev-master",
+        "ext-json": "*",
+        "league/csv": "^9.1"
+    }
+}
